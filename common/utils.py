@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding-utf8 -*-
 """
-:Copyright: 2019, BBD Tech. Co.,Ltd.
 :File Name: utils
-:Author: xufeng@bbdservice.com 
+:Author: xufeng
 :Date: 2021-08-06 6:32 PM
 :Version: v.1.0
 :Description:

@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding-utf8 -*-
 """
-:Copyright: 2019, BBD Tech. Co.,Ltd.
 :File Name: hive_table_cleaner
-:Author: xufeng@bbdservice.com 
+:Author: xufeng 
 :Date: 2021-08-06 6:45 PM
 :Version: v.1.0
 :Description:
